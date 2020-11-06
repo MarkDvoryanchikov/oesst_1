@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "kicksaflips"
+      "X-Author": "kicksaflips",
       "Access-Control-Allow-Origin": "*"
     }
   }
