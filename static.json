@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "kicksaflips"
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
