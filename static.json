@@ -4,12 +4,12 @@
       "X-Author": "kicksaflips",
       "Access-Control-Allow-Origin": "*",
       "Content-type": "text/plain; charset=UTF-8"
-    }
+    },
     "/sample/": {
       "X-Author": "kicksaflips",
       "Access-Control-Allow-Origin": "*",
       "Content-type": "text/plain; charset=UTF-8"  
-  }
+    },
     "/*": {
       "X-Author": "kicksaflips",
       "Access-Control-Allow-Origin": "*"
